@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile 👨‍💻
 <p align = "left">
-	<img src = "https://komarev.com/ghpvc/?username=10kartik&style=plastic&color=blueviolet" alt = "Profile Views"/>
+	<img src = "https://komarev.com/ghpvc/?username=sto-nikhil-ic&style=plastic&color=blueviolet" alt = "Profile Views"/>
 </p>
 
 
@@ -10,7 +10,7 @@ Hello, I'm **Nikhil Dhital**, a passionate developer from Nepal. I specialize in
 
 - 🌱 I’m learning **Django**, **React**,.
 
-- 📫 Reach me via email: **nikhildhital12@gmail.com**
+- 📫 Reach me via email: **nikhildhital112@gmail.com**
 
 ---
 <h3 align="left">Activity:</h3>
