@@ -36,10 +36,7 @@ Hello, I'm **Nikhil Dhital**, a passionate developer from Nepal. I specialize in
                 <td>
                     <img height="40" src="https://skillicons.dev/icons?i=python" alt="Python" />
                     <img height="40" src="https://skillicons.dev/icons?i=django" alt="Django" />
-                    <img height="40" src="https://skillicons.dev/icons?i=php" alt="PHP" />
-                    <img height="40" src="https://skillicons.dev/icons?i=laravel" alt="Laravel" />
-                    <img height="40" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
-                    <img height="40" src="https://skillicons.dev/icons?i=express" alt="Express.js" />
+         
                 </td>
             </tr>
             <tr>
