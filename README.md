@@ -6,7 +6,7 @@
 
 
 ## About Me
-Hello, I'm **Nikhil Dhital**, a passionate developer from Nepal. I specialize in **Python**, **Django**, **JavaScript**, and **Laravel**. My aim is to build impactful projects and contribute to the open-source community.
+Hello, I'm **Nikhil Dhital**, a passionate developer from Nepal. I specialize in **Python**, **c**, **JavaScript**, and **c++**. My aim is to build impactful projects and contribute to the open-source community.
 
 - 🌱 I’m learning **Django**, **React**,.
 
