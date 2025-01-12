@@ -36,7 +36,6 @@ Hello, I'm **Nikhil Dhital**, a passionate developer from Nepal. I specialize in
                 <td>
                     <img height="40" src="https://skillicons.dev/icons?i=python" alt="Python" />
                     <img height="40" src="https://skillicons.dev/icons?i=django" alt="Django" />
-         
                 </td>
             </tr>
             <tr>
